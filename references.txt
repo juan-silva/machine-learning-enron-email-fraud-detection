@@ -1,0 +1,15 @@
+http://scikit-learn.org/
+Used for documentation and examples
+
+http://stackoverflow.com/
+Used to find answers to specific questions
+
+https://www.python.org/doc/
+General enquires about the pyton language
+
+http://docs.scipy.org/doc/numpy/reference/
+General enquires about numpy
+
+"I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc"
+-- Juan Silva
+
